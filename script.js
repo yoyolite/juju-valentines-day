@@ -8,7 +8,12 @@ function selectOption(option) {
         flashRainbowColors(function() {
             document.getElementById('question').style.display = 'none'; // Hide the question
             displayCatHeart(); // Display the cat-heart.gif
-    
+     // Create a new div for "yay"
+        var yayText = document.createElement('div');
+        yayText.textContent = 'yay'; // Set its content to "yay"
+        
+        // Append it to an appropriate parent (e.g., body or another container)
+        document.body.appendChild(yayText); // You can change this if needed
         });
     } else if (option === 'no') {
         // Change text on the "No" button to "You sure?"
