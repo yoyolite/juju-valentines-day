@@ -40,10 +40,10 @@ button {
 }
 
 .yay-text {
+    text-indent: 70px;
     font-size: 52px; /* Adjusts the font size */
-    text-indent: 50px;
     height: 100vh; /* Make the container full viewport height */
-    font-family: 'Sacramento', cursive; /* Apply Sacramento font */
+    font-family: Arial, sans-serif; /* Fallback font family */
     color: black; /* Sets text color */
     text-align: center; /* Centers the text */
 }
