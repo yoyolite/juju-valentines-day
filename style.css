@@ -40,12 +40,11 @@ button {
 }
 
 .yay-text {
-    font-size: 24px; /* Adjusts the font size */
-    color: white; /* Sets text color */
-    background-color: green; /* Sets background color */
+    font-family: 'Sacramento', cursive; /* Apply Sacramento font to the div */
+    font-size: 52px; /* Set font size for the div */
+    height: 100vh; /* Make the container full viewport height */
     padding: 10px; /* Adds space inside the div */
     margin-top: 20px; /* Adds space above the div */
     text-align: center; /* Centers the text */
     border-radius: 5px; /* Rounds corners of the div */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for depth */
 }
