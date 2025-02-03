@@ -43,7 +43,6 @@ button {
     text-indent: 70px;
     font-size: 52px; /* Adjusts the font size */
     height: 100vh; /* Make the container full viewport height */
-    font-family: Arial, sans-serif; /* Fallback font family */
     color: black; /* Sets text color */
     text-align: center; /* Centers the text */
 }
