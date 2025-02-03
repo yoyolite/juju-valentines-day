@@ -38,3 +38,9 @@ button {
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
 }
+
+.yay-text {
+    font-family: Arial, sans-serif; /* Fallback font family */
+    text-align: center; /* Center-align text */
+    margin: 0; /* Remove default margin */
+}
