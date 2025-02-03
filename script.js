@@ -11,8 +11,11 @@ function selectOption(option) {
      // Create a new div for "yay"
         var yayText = document.createElement('div');
         yayText.textContent = 'yay'; // Set its content to "yay"
+
+     // Add class for styling
+        yayText.className = 'yay-text'; // Apply the CSS class
         
-        // Append it to an appropriate parent (e.g., body or another container)
+     // Append it to an appropriate parent (e.g., body or another container)
         document.body.appendChild(yayText); // You can change this if needed
         });
     } else if (option === 'no') {
