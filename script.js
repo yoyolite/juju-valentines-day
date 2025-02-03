@@ -10,7 +10,7 @@ function selectOption(option) {
             displayCatHeart(); // Display the cat-heart.gif
             // Create a new div
         var yayText = document.createElement('div');
-        yayText.textContent = 'YAYYYY MWAAAAA I LOVE YOU BABYYY!' // set your desired text here
+        yayText.textContent = 'YAYYYY  MWAAAAA  I  LOVE  YOU  BABYYY!' // set your desired text here
 
      // Add class for styling
         yayText.className = 'yay-text'; // Apply the CSS class
