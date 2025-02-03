@@ -41,6 +41,7 @@ button {
 
 .yay-text {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the div */
+    background-color: #FB607F; /* Set button background color */
     font-size: 52px; /* Set font size for the div */
     height: 100vh; /* Make the container full viewport height */
     padding: 10px; /* Adds space inside the div */
