@@ -41,6 +41,7 @@ button {
 
 .yay-text {
     font-size: 52px; /* Adjusts the font size */
+    padding: 10px;
     height: 100vh; /* Make the container full viewport height */
     font-family: 'Sacramento', cursive; /* Apply Sacramento font */
     color: black; /* Sets text color */
