@@ -8,7 +8,7 @@ function selectOption(option) {
         flashRainbowColors(function() {
             document.getElementById('question').style.display = 'none'; // Hide the question
             displayCatHeart(); // Display the cat-heart.gif
-     // Create a new div for "yay"
+     // Create a new paragraph
         var yayText = document.createElement('p');
         yayText.textContent = 'YAYYYY MWAAAAA I LOVE YOU BABYYY! im really grateful to have you in my life and im so happy i could spend this valentine with you and i promise ill always do my best to be a good boyfriend for you and i hope you'll always be happy to be with me and i hope to spend many many other valetines to come with you!!!'; // Set your desired text here
 
