@@ -45,6 +45,5 @@ button {
     height: 100vh; /* Make the container full viewport height */
     font-family: 'Sacramento', cursive; /* Apply Sacramento font */
     color: black; /* Sets text color */
-    margin-top: 10px; /* Adds space above the div */
     text-align: center; /* Centers the text */
 }
